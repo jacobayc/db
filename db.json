@@ -1,5 +1,9 @@
 {
-  "text" : "SPOTV NOW JAPAN PROMOTION",
-  "month" : "11",
-  "day" : "25"
+  "popup" : [
+    {
+      "text" : "SPOTV NOW JAPAN PROMOTION",
+      "month" : "11",
+      "day" : "25"
+    }
+  ]
 }
